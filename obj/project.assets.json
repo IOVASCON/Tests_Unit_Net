@@ -1720,14 +1720,14 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "ExemploTDD/1.0.0": {
+      "exemplotdd/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/ExemploTDD.dll": {}
+          "bin/placeholder/exemplotdd.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ExemploTDD.dll": {}
+          "bin/placeholder/exemplotdd.dll": {}
         }
       }
     }
@@ -5565,18 +5565,18 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "ExemploTDD/1.0.0": {
+    "exemplotdd/1.0.0": {
       "type": "project",
-      "path": "../ExemploTDD/ExemploTDD.csproj",
-      "msbuildProject": "../ExemploTDD/ExemploTDD.csproj"
+      "path": "../ExemploTDD/exemplotdd.csproj",
+      "msbuildProject": "../ExemploTDD/exemplotdd.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ExemploTDD >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "coverlet.collector >= 3.2.0",
       "coverlet.msbuild >= 6.0.2",
+      "exemplotdd >= 1.0.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
     ]
@@ -5614,8 +5614,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\ExemploTDD.csproj": {
-              "projectPath": "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\ExemploTDD.csproj"
+            "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\exemplotdd.csproj": {
+              "projectPath": "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\exemplotdd.csproj"
             }
           }
         }

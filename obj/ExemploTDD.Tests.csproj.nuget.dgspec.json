@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\ExemploTDD.csproj": {
-                "projectPath": "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\ExemploTDD.csproj"
+              "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\exemplotdd.csproj": {
+                "projectPath": "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\exemplotdd.csproj"
               }
             }
           }
@@ -96,12 +96,12 @@
         }
       }
     },
-    "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\ExemploTDD.csproj": {
+    "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\exemplotdd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\ExemploTDD.csproj",
-        "projectName": "ExemploTDD",
-        "projectPath": "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\ExemploTDD.csproj",
+        "projectUniqueName": "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\exemplotdd.csproj",
+        "projectName": "exemplotdd",
+        "projectPath": "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\exemplotdd.csproj",
         "packagesPath": "C:\\Users\\Izairton\\.nuget\\packages\\",
         "outputPath": "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\obj\\",
         "projectStyle": "PackageReference",
