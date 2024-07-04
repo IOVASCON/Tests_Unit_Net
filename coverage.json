@@ -1,0 +1,67 @@
+{
+  "ExemploTDD.dll": {
+    "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\Calculadora.cs": {
+      "ExemploTDD.Calculadora": {
+        "System.Int32 ExemploTDD.Calculadora::Adicionar(System.Int32,System.Int32)": {
+          "Lines": {
+            "5": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 ExemploTDD.Calculadora::Subtrair(System.Int32,System.Int32)": {
+          "Lines": {
+            "6": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 ExemploTDD.Calculadora::Multiplicar(System.Int32,System.Int32)": {
+          "Lines": {
+            "7": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 ExemploTDD.Calculadora::Dividir(System.Int32,System.Int32)": {
+          "Lines": {
+            "9": 2,
+            "10": 2,
+            "11": 1,
+            "12": 1,
+            "13": 1
+          },
+          "Branches": [
+            {
+              "Line": 10,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 10,
+              "Offset": 7,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "L:\\VSCode\\TESTES_MANUAIS\\Teste_Unit_NET\\ExemploTDD\\Program.cs": {
+      "ExemploTDD.Program": {
+        "System.Void ExemploTDD.Program::Main(System.String[])": {
+          "Lines": {
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
