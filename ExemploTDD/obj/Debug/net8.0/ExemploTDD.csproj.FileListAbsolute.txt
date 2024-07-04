@@ -1,0 +1,15 @@
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\bin\Debug\net8.0\ExemploTDD.exe
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\bin\Debug\net8.0\ExemploTDD.deps.json
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\bin\Debug\net8.0\ExemploTDD.runtimeconfig.json
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\bin\Debug\net8.0\ExemploTDD.dll
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\bin\Debug\net8.0\ExemploTDD.pdb
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\obj\Debug\net8.0\ExemploTDD.csproj.AssemblyReference.cache
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\obj\Debug\net8.0\ExemploTDD.GeneratedMSBuildEditorConfig.editorconfig
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\obj\Debug\net8.0\ExemploTDD.AssemblyInfoInputs.cache
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\obj\Debug\net8.0\ExemploTDD.AssemblyInfo.cs
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\obj\Debug\net8.0\ExemploTDD.csproj.CoreCompileInputs.cache
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\obj\Debug\net8.0\ExemploTDD.dll
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\obj\Debug\net8.0\refint\ExemploTDD.dll
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\obj\Debug\net8.0\ExemploTDD.pdb
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\obj\Debug\net8.0\ExemploTDD.genruntimeconfig.cache
+L:\VSCode\TESTES_MANUAIS\Teste_Unit_NET\ExemploTDD\obj\Debug\net8.0\ref\ExemploTDD.dll
